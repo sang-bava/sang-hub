@@ -1,9 +1,7 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
-
        local Window = MakeWindow({
          Hub = {
-         Title = "Test Roblox",
-         Animation = "Youtube: tes YT"
+         Title = "sang Roblox",
+         Animation = "YThub"
          },
         Key = {
         KeySystem = false,
